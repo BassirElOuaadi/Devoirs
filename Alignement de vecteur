@@ -7,3 +7,6 @@
                 1.5:6=1/4
                 1:6=1/6               Vecteur AB/6 = Vecteur AC 
                 Donc le vecteur AB et AC sont colinéaires et les points A,B et C sont alignés
+  Vecteur AB (3-(-5);-1-2)                   Vecteur AC (8-(-5);-3-2)
+  Vecteur AB (8;-3)                          Vecteur AC (13;-5)
+                Si A,B et C sont alignés cela veur dire que 8*(-5)/-3= 13 mais ce n'est pa le cas donc les points A,B et C ne sont pas alignés 
